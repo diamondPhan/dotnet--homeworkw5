@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\HW_W5\HW_W5\bin\Debug\HW_W5.exe.config
+C:\Users\Admin\source\repos\HW_W5\HW_W5\bin\Debug\HW_W5.exe
+C:\Users\Admin\source\repos\HW_W5\HW_W5\bin\Debug\HW_W5.pdb
+C:\Users\Admin\source\repos\HW_W5\HW_W5\obj\Debug\PhanNgocKimCuong-Week5.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HW_W5\HW_W5\obj\Debug\PhanNgocKimCuong-Week5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_W5\HW_W5\obj\Debug\HW_W5.exe
+C:\Users\Admin\source\repos\HW_W5\HW_W5\obj\Debug\HW_W5.pdb
